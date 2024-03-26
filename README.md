@@ -36,7 +36,7 @@ models\ldm\text2img-large
 
 下下载预训练权重
 
-
+在创建src文件夹，下面放clip与taming-transformers
 
 ### run
 
